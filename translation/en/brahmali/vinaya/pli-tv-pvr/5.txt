@@ -462,15 +462,37 @@ Thus there may be decidings that are stopped by legal questions,
 thus there may be decidings that are not stopped by legal questions.
 
 
-# next is 142.1 START HERE
-How may it be that legal questions are stopped by decidings, how may be that legal questions are not stopped by decidings? A legal question concerning disputes is stopped by a verdict in the presence of and by a decision of the majority; it is stopped by a verdict of innocence nor by a verdict for past insanity nor by a carrying out on (his) acknowledgement nor b a decision for specific depravity nor by a covering over (as) with grass. A legal question concerning censure is stopped by a verdict in the presence of and by a verdict of innocence and by a verdict of past insanity and by a decision for specific depravity; it is not stopped by a decision of the majority nor by a carrying out on (his) acknowledgement nor by a covering over (as) with grass. A legal question concerning offences is stopped by a verdict in the presence of and by a carrying out on (his) acknowledgement and by a covering over (as) with grass; it is not stopped by a decision of the majority nor by a verdict of innocence nor by a verdict of past insanity nor by a decision for specific depravity. A legal question concerning obligations is stopped by a verdict in the presence of; it is not stopped by a decision of the majority nor by a verdict of innocence nor by a verdict of past insanity nor by a carrying out on (his) acknowledgement nor by a decision for specific depravity nor by a covering over (as) with grass. Thus there may be legal questions that are stopped by decidings, thus there may be legal questions that are not stopped by decidings.
+# next is 142.1
+How may it be that legal questions are stopped by decidings, how may be that legal questions are not stopped by decidings?
+A legal question concerning disputes is stopped by a verdict in the presence of and by a decision of the majority;
+it is stopped by a verdict of innocence nor by a verdict for past insanity nor by a carrying out on (his) acknowledgement nor b a decision for specific depravity nor by a covering over (as) with grass.
+A legal question concerning censure is stopped by a verdict in the presence of and by a verdict of innocence and by a verdict of past insanity and by a decision for specific depravity;
+it is not stopped by a decision of the majority nor by a carrying out on (his) acknowledgement nor by a covering over (as) with grass.
+A legal question concerning offences is stopped by a verdict in the presence of and by a carrying out on (his) acknowledgement and by a covering over (as) with grass;
+it is not stopped by a decision of the majority nor by a verdict of innocence nor by a verdict of past insanity nor by a decision for specific depravity.
+A legal question concerning obligations is stopped by a verdict in the presence of;
+it is not stopped by a decision of the majority nor by a verdict of innocence nor by a verdict of past insanity nor by a carrying out on (his) acknowledgement nor by a decision for specific depravity nor by a covering over (as) with grass.
+Thus there may be legal questions that are stopped by decidings,
+thus there may be legal questions that are not stopped by decidings.
+How may it be that legal questions are stopped by legal questions,
+how may it be that legal questions are not stopped by legal questions?
+A legal question concerning disputes is not stopped by a legal question concerning censure, it is not stopped by a legal question concerning offences; xkcd: pg 164
+it is stopped by a legal question concerning obligations.
+A legal question concerning censure …
 
-How may it be that legal questions are stopped by legal questions, how may it be that legal questions are not stopped by legal questions? A legal question concerning disputes is not stopped by a legal question concerning censure, it is not stopped by a legal question concerning offences; it is stopped by a legal question concerning obligations. A legal question concerning censure … a legal question concerning offences … a legal question concerning obligations is not stopped by a legal question concerning disputes, it is not stopped by a legal question concerning censure, it is not stopped by a legal question concerning offences; it is stopped by a legal question con corning obligations. Thus there may be legal questions that are stopped by legal questions, thus there may be legal questions that are not stopped by legal questions.
+a legal question concerning offences …
 
-Six decidings as well as the four legal questions are stopped by a verdict in the presence of; a verdict in the presence of is stopped by some.
+a legal question concerning obligations is not stopped by a legal question concerning disputes, it is not stopped by a legal question concerning censure, it is not stopped by a legal question concerning offences;
+it is stopped by a legal question con corning obligations.
+Thus there may be legal questions that are stopped by legal questions,
+thus there may be legal questions that are not stopped by legal questions.
 
+# paws! next is 150.1
+Six decidings as well as the four legal questions are stopped by a verdict in the presence of;
+a verdict in the presence of is stopped by some.
 Concluded is the Nineteenth Chapter: on Decidings and Legal Questions
 
+# next is 152.1 START HERE
 Of the four legal questions which legal question originates a legal question concerning disputes? Of the four legal questions it is not which legal question originates a legal question concerning disputes yet because of a legal question concerning disputes the four legal questions arise. How is it like that? As to this monks are disputing, saying, “It is _Dhamma_” or “It is not _Dhamma_” or “It is Discipline” or “It is not Discipline” or … (_see_ Kd.14.14.2) … this is called a legal question concerning disputes. If the Order disputes about a legal question concerning disputes, there is a legal question concerning disputes. If one censures when he is disputing, there is a legal question concerning censure. If one falls into an offence when he is censuring, there is a legal question concerning offences. If the Order carries out a (formal) act for these offences, there is a legal question concerning obligations. Thus it is that because of a legal question concerning disputes the four legal questions arise.
 
 Of the four legal questions … (_as before_) … legal question concerning censure? … yet because of a legal question concerning censure the four legal questions arise. How is it like that? As to this monks are censuring a monk … (_see_ Kd.14.14.2) … this is called a legal question concerning censure. If the Order disputes about a legal question concerning censure, there is a legal question concerning disputes. If one censures as he is disputing … (_as before_) … Thus it is that because of a legal question concerning censure the four legal questions arise.
